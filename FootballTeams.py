@@ -38,7 +38,7 @@ if question1 == reply1:
 
     if command1 == country2:
         print("Bayern Munich  Borussia Dortmunt  Bayer Leverkusen  Union Berlin  RB Leipzing")
-        germany1 = input("Choose a football club.\n")
+        germany1 = input("Choose a foot    if :ball club.\n")
         print(name + " you like " + germany1)
         print("This is the end of the quiz. Thank you :)")
 
